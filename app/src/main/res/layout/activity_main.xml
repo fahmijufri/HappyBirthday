@@ -5,13 +5,15 @@
 
     <TextView android:text="Happy Birthday, Fahmi!"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:textSize="36sp" />
 
     <TextView android:text="From, your friend"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true" />
+        android:layout_alignParentRight="true"
+        android:textSize="36sp" />
 
     <ImageView
         android:layout_width="wrap_content"
